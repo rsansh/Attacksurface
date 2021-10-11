@@ -1,0 +1,4 @@
+Collecting IpReputation ...
+Domain_ip				Blacklist
+14.142.152.238 (idfcfirstbank.com) 			 Spamhaus ZEN
+14.142.152.238 (idfcfirstbank.com) 			 UCEPROTECTL2

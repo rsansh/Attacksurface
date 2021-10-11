@@ -1,0 +1,5 @@
+Collecting IpReputation ...
+Domain_ip									Result
+http://pop.narendramodi.in/			Uncrypted Login Page Present
+http://182.73.171.137/sponsor			Uncrypted Login Page Present
+http://webmail.narendramodi.in/			Uncrypted Login Page Present

@@ -1,0 +1,9 @@
+Collecting Domain Info ...
+Domain_ip				Expiry_datetime
+advaitghaisas.in			2023-03-10 13:22:07
+idfcbank.com			2023-07-03 09:28:50
+
+####################################################################################################
+Domain_ip				DnsSec
+advaitghaisas.in			signedDelegation
+idfcbank.com			unsigned

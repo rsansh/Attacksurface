@@ -1,0 +1,6 @@
+Collecting Hsts and Preloaded info ...
+Domain					Hsts			Preloaded
+advaitghaisas.in			Yes			Yes
+netmagicsolutions.com			Yes			No
+ragecoffee.com			Yes		No
+idfcfirstbank.com			Yes		No

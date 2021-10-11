@@ -1,0 +1,16 @@
+Collecting Defaultpage ...
+Domain_ip					Result
+52.112.65.139			RTC
+103.233.77.135			Oracle HTTP Server
+105.234.147.3			Apache
+105.112.4.219			Apache
+105.234.147.3			Apache
+105.112.4.219			Apache
+105.234.147.3			Apache
+105.112.4.219			Apache
+197.158.247.150			Apache
+154.73.112.109			Apache
+105.234.147.3			Apache
+105.112.127.18			Apache
+197.157.130.86			Apache
+41.243.9.109			IIS Windows Server

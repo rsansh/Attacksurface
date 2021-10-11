@@ -1,0 +1,43 @@
+Collecting IpReputation ...
+Domain_ip						Expire_info
+www.idfcbank.com			expires in 56 days
+etolluat.idfcbank.com			expires in 11 days
+connect.idfcbank.com			expires in 350 days
+firupaysit.idfcbank.com			expires in 297 days
+locator.idfcbank.com			expires in 284 days
+bxp.idfcbank.com			expires in 58 days
+uatdigiforex.idfcbank.com			expires in 181 days
+uatdigiremit.idfcbank.com			expires in 181 days
+ileap.idfcbank.com			expires in 137 days
+foirm.idfcbank.com			expires in 368 days
+irm.idfcbank.com			expires in 368 days
+etcdbo.idfcbank.com			expires in 320 days
+iLearn.idfcbank.com			expires in 283 days
+ilearnuat.idfcbank.com			expires in 265 days
+access.idfcbank.com			expires in 249 days
+coordinator.idfcbank.com			expires in 216 days
+my.idfcbank.com			expires in 216 days
+ecomuat.idfcbank.com			expires in 215 days
+OntheGo.idfcbank.com			expires in 165 days
+ecomtest.IDFCBANK.COM			expires in 16 days
+ejoiningforms.idfcbank.com			expires in 109 days
+BBPGaeps.idfcbank.com			expires in 47 days
+bbpgmatm.idfcbank.com			expires in 47 days
+iconnect.idfcbank.com			certificate has expired
+bharatbank.idfcbank.com			expires in 34 days
+etoll.idfcbank.com			expires in 33 days
+ecomtest.idfcbank.com			expires in 16 days
+BXP.idfcbank.com			expires in 58 days
+webbridge.idfcbank.com			expires in 329 days
+ETOLL.IDFCBANK.COM			expires in 33 days
+webbridge.idfcbank.com			expires in 329 days
+etoll.idfcbank.com			expires in 33 days
+irm.idfcbank.com			expires in 368 days
+foirm.idfcbank.com			expires in 368 days
+coordinator.idfcbank.com			expires in 216 days
+ejoiningforms.idfcbank.com			expires in 109 days
+access.idfcbank.com			expires in 249 days
+etolluat.idfcbank.com			expires in 11 days
+connect.idfcbank.com			expires in 350 days
+firupaysit.idfcbank.com			expires in 297 days
+uatdigiforex.idfcbank.com			expires in 181 days
